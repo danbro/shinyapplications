@@ -1,8 +1,8 @@
 Predicting the daily electricity consumption of your house
 ========================================================
 author: Daniel A. Broden
-date: Wed Jan 21 18:17:09 2015
-
+date: Wed Jan 21 18:27:55 2015
+Try out my application at <http://danbro.shinyapps.io/LoadPrediction>
 
 The General idea
 ========================================================
@@ -45,3 +45,5 @@ Some examples are listed below:
 - Add more selections in the sidebar panel
 - Add a comparative curve in the figure showing the average daily load profile
 - Include a submit button in the sidebar panel while still keeping the sliderbar reactive (i.e., it is independent of the submit button)
+
+You can try out the applications at this link <http://danbro.shinyapps.io/LoadPrediction>
